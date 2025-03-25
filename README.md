@@ -82,4 +82,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or feedback, please contact (mailto:asksandeepsdl@gmail.com).
+For questions or feedback, please contact (mailto:asksandeepsd@gmail.com).
